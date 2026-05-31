@@ -1,11 +1,19 @@
-[
-  {
-    "id": "TestPlugin",
-    "name": "Тестовая заглушка",
-    "description": "Просто проверка установки плагинов.",
-    "author": "raizor000",
-    "version": "1.0.1",
-    "icon_url": "https://raw.githubusercontent.com/raizor000/CounterMine2-launcher-plugins/main/assets/bananvovan.png",
-    "download_url": "https://github.com/raizor000/CounterMine2-launcher-plugins/raw/refs/heads/main/plugins/TestPlugin.zip"
-  }
+[  
+  "maintenance": [
+    {
+      "title": "Глобальные работы",
+      "description": "Мы обновляем сервера плагинов. Скоро всё заработает!"
+    }
+  ],
+  "plugins": [
+    {
+      "id": "TestPlugin",
+      "name": "Тестовая заглушка",
+      "description": "Просто проверка установки плагинов.",
+      "author": "raizor000",
+      "version": "1.0.1",
+      "icon_url": "https://raw.githubusercontent.com/raizor000/CounterMine2-launcher-plugins/main/assets/bananvovan.png",
+      "download_url": "https://github.com/raizor000/CounterMine2-launcher-plugins/raw/refs/heads/main/plugins/TestPlugin.zip"
+    }
+  ]
 ]
