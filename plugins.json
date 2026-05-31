@@ -1,8 +1,10 @@
-[  
+{
   "maintenance": [
     {
+      "type": "warning", 
       "title": "Глобальные работы",
-      "description": "Мы обновляем сервера плагинов. Скоро всё заработает!"
+      "description": "Мы обновляем сервера плагинов. Скоро всё заработает!",
+      "status_text": "LIVE"
     }
   ],
   "plugins": [
@@ -16,4 +18,4 @@
       "download_url": "https://github.com/raizor000/CounterMine2-launcher-plugins/raw/refs/heads/main/plugins/TestPlugin.zip"
     }
   ]
-]
+}
